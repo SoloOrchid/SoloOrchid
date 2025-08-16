@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the next awesome mobile app.<br>👯‍♀️ I’m looking to collaborate on cryptography solutions.<br>🤝 I’m looking for help with finding clients in EU.<br>🌱 I’m currently learning Data Structures.<br>💬 Ask me about the latest in Data Security.<br>⚡️ Fun fact I once wrote a secure authentication system within an hour, this was a great confidence boost for me.
+🔭 I’m currently working on the next awesome mobile app.<br>🌱 I’m currently learning IT-security.<br>💬 Ask me about the latest in Data Security.
 
 
 # 💻 Tech Stack:
